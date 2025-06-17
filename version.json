@@ -1,4 +1,5 @@
 {
-  "versionCode": 2,
-  "apkUrl": "https://github.com/mamun-974911/aimkill-auto-update2/releases/download/v1.0.0/MVP-UUP.apk"
+  "version": "1.0.5",
+  "apk_url": "https://yourserver.com/app-latest.apk"
 }
+
